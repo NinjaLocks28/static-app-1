@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#hero {
+    background: url(./assets/image1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    background-color: rgb(209, 209, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+} 
+
+#carousel {
+    
+}
+
+#item {
+    
+    width: 100%;
+}
+
+#product {
+   
+    display: flex;
+    align-items: center;
+}
+
+#footer {
+    background-color: #dadada;
+    height: 5vh;
+    display: flex;
+}
+
+.button {
+    background-color: #31d2f2;
+}
